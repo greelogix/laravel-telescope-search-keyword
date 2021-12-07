@@ -1,5 +1,7 @@
 # laravel-telescope-search-keyword
 
+![alt text](https://greelogix.com/laravel-telescope-search-keyword.png)
+
 1. In [app] directory place custom controller code in following path [app\Overrides\Telescope\EntryController.php]
 2. Create a service provider using following command,
 
