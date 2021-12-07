@@ -16,3 +16,5 @@
 5. Now just run following command to regenerate the autoload files,
 
     *composer dump-autoload*
+
+Thats it! Now if you type a keyword in Telescope Tag search field it will retrieve all concerned entries, Note if you use ":" in the search box then it will behave like default #Tag Search.
